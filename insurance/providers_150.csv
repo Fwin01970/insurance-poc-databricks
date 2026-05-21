@@ -1,0 +1,151 @@
+provider_id,provider_name,provider_type,city,state,empanelled,total_claims_filed,average_claim_amount,rating
+H0001,"Khanna, Bhakta and Saxena",Clinic,Thane,Gujarat,No,1459,40732,4.0
+H0002,Modi Ltd,Hospital,Pudukkottai,Uttarakhand,No,1241,105194,4.4
+H0003,Pal-Sachdeva,Hospital,Vadodara,Karnataka,No,858,116149,3.0
+H0004,"Khalsa, Badal and Morar",Hospital,Bhusawal,Tamil Nadu,No,1647,59925,4.9
+H0005,Grover-Keer,Lab,Shimla,Andhra Pradesh,Yes,981,36517,3.3
+H0006,Choudhary PLC,Clinic,Khora ,West Bengal,No,685,8705,4.9
+H0007,Bhattacharyya LLC,Clinic,Malegaon,Goa,Yes,1532,121588,3.3
+H0008,"Chada, Sankaran and Misra",Hospital,Mau,Telangana,No,1139,125866,2.5
+H0009,Gandhi-Murthy,Lab,Bihar Sharif,Himachal Pradesh,No,1507,5215,4.4
+H0010,Vohra-Jhaveri,Clinic,South Dumdum,Uttarakhand,No,1172,145419,4.0
+H0011,"Aurora, Pradhan and Buch",Hospital,Mirzapur,Meghalaya,Yes,578,114718,4.1
+H0012,Loke Group,Hospital,Patna,West Bengal,No,1083,9942,4.6
+H0013,Chanda-Magar,Hospital,Maheshtala,Uttarakhand,No,642,44967,4.8
+H0014,Kaul-Balakrishnan,Clinic,Pali,Karnataka,Yes,97,26553,4.6
+H0015,"Kohli, Bhandari and Seshadri",Clinic,Khora ,Mizoram,No,1041,132755,2.5
+H0016,Sandhu and Sons,Hospital,Kolhapur,Kerala,Yes,1817,117955,3.2
+H0017,Arora-Parekh,Clinic,Firozabad,Jharkhand,Yes,891,56397,4.2
+H0018,"Kuruvilla, Divan and Shah",Lab,Latur,Maharashtra,No,1056,13275,3.7
+H0019,Gupta Ltd,Clinic,Vasai-Virar,Maharashtra,Yes,1628,11931,3.5
+H0020,Goyal PLC,Hospital,Shimoga,Tripura,Yes,1926,8616,4.5
+H0021,Roy-Viswanathan,Hospital,Dharmavaram,Kerala,Yes,1337,8687,3.2
+H0022,Ratta Group,Lab,North Dumdum,West Bengal,No,1848,101199,4.8
+H0023,Chana-Issac,Hospital,Tiruppur,Tamil Nadu,No,546,63717,4.5
+H0024,"Bora, Jain and Kumer",Hospital,Amravati,Assam,No,1640,120238,2.9
+H0025,Sharma and Sons,Hospital,Pimpri-Chinchwad,Maharashtra,Yes,660,60613,2.8
+H0026,Sura-Andra,Hospital,Bhiwani,Chhattisgarh,No,1998,80515,3.3
+H0027,Rama-Datta,Hospital,Pimpri-Chinchwad,Gujarat,Yes,1001,113642,3.5
+H0028,"Arora, Basak and Ghose",Clinic,Purnia,Goa,No,721,80758,3.3
+H0029,Lata-Mitra,Clinic,Maheshtala,Nagaland,Yes,1982,87500,4.3
+H0030,Wali-Karpe,Lab,Hapur,Manipur,No,1795,23668,3.7
+H0031,"Biswas, Deshmukh and Kaur",Lab,Ballia,Chhattisgarh,Yes,311,122408,4.6
+H0032,"Dhawan, Bawa and Patla",Hospital,Eluru,Haryana,Yes,1827,118990,4.7
+H0033,"Bala, Bobal and Mani",Clinic,Varanasi,Arunachal Pradesh,No,480,133666,3.9
+H0034,Lall PLC,Clinic,Amaravati,Chhattisgarh,Yes,1581,8119,4.3
+H0035,Kuruvilla-Kar,Hospital,Nagpur,Mizoram,Yes,1640,51781,4.4
+H0036,Nair-Ramachandran,Clinic,Nashik,Himachal Pradesh,Yes,1530,37207,3.3
+H0037,"Nair, Apte and Pandya",Hospital,Mumbai,Karnataka,No,936,17798,4.2
+H0038,Bir Ltd,Lab,Kamarhati,Telangana,Yes,1960,51396,2.6
+H0039,Zachariah Ltd,Hospital,Raipur,Uttarakhand,No,680,14024,4.3
+H0040,Mangal Group,Hospital,Khora ,Manipur,Yes,1775,77605,3.6
+H0041,"Khosla, Mani and Sankar",Lab,Madhyamgram,Madhya Pradesh,No,719,26506,3.7
+H0042,"Rau, Sarkar and Sundaram",Clinic,Khora ,Karnataka,No,1309,140250,4.2
+H0043,Ratti-Raval,Lab,Jodhpur,Nagaland,No,1643,27294,3.5
+H0044,"Dhar, Thaker and Aurora",Hospital,Anantapuram,Mizoram,Yes,1723,149314,4.7
+H0045,Sethi Ltd,Lab,Parbhani,Mizoram,No,234,11736,3.7
+H0046,Kapadia-Bhargava,Hospital,Hospet,Gujarat,Yes,1236,146354,4.3
+H0047,Mishra and Sons,Lab,Kulti,Sikkim,No,478,80851,4.9
+H0048,Karnik-Halder,Lab,Haridwar,West Bengal,Yes,919,24193,5.0
+H0049,"Mohanty, Raju and Murty",Hospital,Panihati,Uttarakhand,Yes,96,10247,3.0
+H0050,Randhawa Ltd,Lab,Darbhanga,Kerala,Yes,575,129917,4.9
+H0051,Taneja-Dyal,Hospital,Muzaffarnagar,Madhya Pradesh,No,1696,42254,3.1
+H0052,"Divan, Gokhale and Kamdar",Hospital,Ahmedabad,Tripura,Yes,105,126185,4.4
+H0053,Sood-Mishra,Lab,Ulhasnagar,Goa,No,1423,79745,3.7
+H0054,Raval-Sastry,Lab,Nagercoil,Manipur,Yes,1412,33209,3.4
+H0055,"Chaudhry, Halder and Bava",Clinic,Nagpur,Assam,No,766,140578,3.1
+H0056,Ahluwalia-Oak,Clinic,Coimbatore,Rajasthan,Yes,1531,107123,2.9
+H0057,Suri-Murthy,Clinic,Latur,Telangana,Yes,1843,8668,4.9
+H0058,Natt-Trivedi,Lab,Rewa,Andhra Pradesh,Yes,671,17905,4.6
+H0059,"Kumar, Bumb and Sanghvi",Lab,Rajahmundry,Karnataka,No,461,95491,4.9
+H0060,Bahri-Oza,Clinic,Pallavaram,Himachal Pradesh,No,345,22620,3.4
+H0061,"Jhaveri, Bhattacharyya and Chokshi",Hospital,Darbhanga,Telangana,Yes,1808,117419,2.6
+H0062,"Saini, Pal and Dubey",Hospital,Fatehpur,Tripura,No,1670,14661,3.8
+H0063,Lala Ltd,Clinic,Mathura,Goa,Yes,1273,42302,3.4
+H0064,"Ramesh, Samra and Seth",Hospital,Danapur,Odisha,No,1078,62778,5.0
+H0065,Bera-Tata,Clinic,Jorhat,Goa,Yes,1022,126405,4.0
+H0066,Jha Inc,Hospital,Chandigarh,Andhra Pradesh,Yes,724,137271,2.8
+H0067,Yadav-Seshadri,Clinic,Mau,Bihar,No,1860,88544,4.3
+H0068,Arya-Menon,Clinic,Meerut,Kerala,No,1993,108772,3.7
+H0069,Tara-Char,Clinic,Morena,Maharashtra,Yes,251,88845,4.2
+H0070,Viswanathan-Banik,Hospital,Buxar,Himachal Pradesh,Yes,478,30412,3.7
+H0071,Venkataraman Inc,Hospital,Gandhidham,Haryana,Yes,1490,12703,4.1
+H0072,Cherian-Yohannan,Hospital,Pimpri-Chinchwad,Gujarat,No,453,42262,3.7
+H0073,Kala LLC,Clinic,Orai,Rajasthan,Yes,1990,94047,2.6
+H0074,"Dhawan, Pathak and Bawa",Lab,Jalna,West Bengal,No,1378,119299,2.6
+H0075,"Bahl, Puri and Sarma",Hospital,Nanded,Nagaland,No,837,13331,2.6
+H0076,Shetty-Brar,Clinic,Dhanbad,Bihar,Yes,1808,148451,4.8
+H0077,Brahmbhatt-Keer,Clinic,Mau,Rajasthan,No,1803,13726,4.1
+H0078,"Bumb, Chaudhary and Mahajan",Lab,Tiruvottiyur,Andhra Pradesh,Yes,809,132701,3.2
+H0079,"Koshy, Mital and Yadav",Hospital,Hosur,Goa,Yes,318,55381,5.0
+H0080,Bora-Varughese,Clinic,Shimla,Punjab,Yes,1747,31415,3.5
+H0081,Sehgal and Sons,Lab,Narasaraopet,Uttarakhand,No,1246,7627,4.9
+H0082,"Mukhopadhyay, Rout and Mody",Hospital,Thane,Uttar Pradesh,Yes,1658,75282,3.7
+H0083,"Krishna, Ramakrishnan and Choudhry",Lab,Bhagalpur,Chhattisgarh,Yes,322,76841,3.9
+H0084,Dhar Ltd,Lab,Dhanbad,Jharkhand,Yes,893,110388,4.3
+H0085,Gupta Ltd,Lab,Rohtak,Jharkhand,Yes,806,115084,4.6
+H0086,"Borde, Hayer and Kurian",Hospital,Ramgarh,Maharashtra,Yes,110,58631,4.6
+H0087,"Buch, Mannan and Choudhry",Lab,Bettiah,Chhattisgarh,No,53,138690,4.7
+H0088,Bhakta LLC,Clinic,Phusro,Sikkim,Yes,333,115292,2.6
+H0089,"Krish, Pathak and Varghese",Clinic,Mysore,Karnataka,No,1169,124103,3.4
+H0090,"Issac, Vohra and Loyal",Lab,Tadipatri,Arunachal Pradesh,No,630,79403,2.5
+H0091,"Mukherjee, Pandit and Sankar",Hospital,Dhule,Sikkim,Yes,405,127507,4.9
+H0092,Gulati-Chaudhari,Lab,Jalandhar,Gujarat,No,1652,107966,2.6
+H0093,Kapur and Sons,Hospital,Dehradun,West Bengal,No,744,24587,3.1
+H0094,"Pandya, Dutta and Pai",Clinic,Bahraich,Arunachal Pradesh,No,827,69884,4.6
+H0095,Roy-Bhasin,Clinic,Baranagar,Assam,Yes,1969,74013,4.0
+H0096,Boase and Sons,Lab,Jalandhar,Madhya Pradesh,Yes,1836,81893,4.8
+H0097,"Tandon, Mitter and Mani",Hospital,Tezpur,Gujarat,No,581,117638,3.2
+H0098,Lanka-Swaminathan,Clinic,Aurangabad,Telangana,Yes,721,72040,3.3
+H0099,Narain and Sons,Hospital,Rajpur Sonarpur,Uttarakhand,No,1859,95334,3.3
+H0100,"Mander, Bakshi and Naidu",Hospital,Kulti,Karnataka,No,468,99491,4.6
+H0101,Maharaj-Lala,Lab,Sonipat,Nagaland,No,739,103136,3.0
+H0102,Atwal-Banerjee,Lab,Motihari,West Bengal,Yes,1487,85289,3.8
+H0103,"Oommen, Vohra and Yadav",Clinic,Saharanpur,Kerala,Yes,391,116852,4.3
+H0104,Kapur-Saini,Lab,Loni,Assam,Yes,1870,145494,3.1
+H0105,Zachariah-Kohli,Hospital,Motihari,Meghalaya,Yes,1888,25529,4.9
+H0106,Dey-Khalsa,Clinic,Chennai,Bihar,No,575,86382,3.9
+H0107,Lad-Bhandari,Lab,Nashik,Andhra Pradesh,Yes,1927,93837,4.1
+H0108,"Raju, Mittal and Arya",Clinic,Jammu,Andhra Pradesh,No,956,44063,3.5
+H0109,"Lalla, Luthra and Hayer",Clinic,Phagwara,Assam,No,1914,22943,4.2
+H0110,Ratta-Johal,Hospital,Hosur,Rajasthan,No,764,112220,4.9
+H0111,Yohannan-Deep,Clinic,Gopalpur,Kerala,Yes,826,31112,3.7
+H0112,"Shroff, Magar and Gulati",Lab,Guna,Karnataka,No,1506,24592,2.5
+H0113,Rout-Mallick,Lab,Raurkela Industrial Township,Arunachal Pradesh,No,1648,13602,2.6
+H0114,Nadkarni-Kala,Hospital,Bhopal,Rajasthan,Yes,1683,134817,4.9
+H0115,Andra LLC,Hospital,Hospet,Arunachal Pradesh,Yes,652,11650,3.6
+H0116,Dhar Group,Clinic,Amravati,Chhattisgarh,Yes,842,123002,2.7
+H0117,"Lall, Bhatia and Iyer",Clinic,Phagwara,Bihar,Yes,1390,78262,2.6
+H0118,"Goswami, Anne and Wable",Clinic,Aurangabad,Gujarat,Yes,494,43402,3.6
+H0119,"Singh, Parikh and Chokshi",Hospital,Dhule,Nagaland,No,1566,54917,4.5
+H0120,"Biswas, Venkatesh and Pillai",Lab,Muzaffarpur,Tamil Nadu,Yes,474,146872,2.9
+H0121,"Joshi, Bobal and Ramanathan",Lab,Ramgarh,Haryana,No,1374,82132,4.0
+H0122,Nadig Inc,Hospital,Begusarai,Sikkim,No,1190,22363,4.4
+H0123,Venkatesh-Menon,Clinic,Ranchi,Haryana,No,1922,146550,2.9
+H0124,Bala Ltd,Lab,Guntakal,Karnataka,No,1677,138596,3.6
+H0125,Mangat-Vohra,Clinic,Raiganj,West Bengal,Yes,518,64792,3.2
+H0126,Dash-Mohanty,Clinic,Bikaner,Nagaland,Yes,1256,39895,2.6
+H0127,"Lata, Thakkar and Narayan",Hospital,Uluberia,Uttar Pradesh,No,697,16098,4.9
+H0128,Gill-Dugar,Clinic,Varanasi,Uttarakhand,No,1224,34420,4.8
+H0129,Bhatia-Madan,Clinic,Amroha,Punjab,No,1933,15076,3.7
+H0130,"Arora, Sahni and Kapur",Clinic,Arrah,Kerala,No,621,40073,4.1
+H0131,"Borah, Srinivasan and Wason",Hospital,Munger,Jharkhand,No,844,83049,4.3
+H0132,Thakur-Chandra,Clinic,Dewas,Manipur,No,962,128741,3.2
+H0133,Sodhi-Walla,Clinic,Bhubaneswar,Tripura,Yes,932,108712,3.4
+H0134,Wali LLC,Hospital,Panipat,Bihar,No,179,87187,4.5
+H0135,"Sekhon, Kulkarni and Cheema",Hospital,Gandhidham,Uttar Pradesh,No,1456,44145,4.1
+H0136,"Pandey, Vora and Venkataraman",Hospital,Sultan Pur Majra,Madhya Pradesh,No,701,7926,2.6
+H0137,"Ramachandran, Mandal and Anand",Hospital,Alwar,Punjab,Yes,1458,92966,4.2
+H0138,Banerjee-Pillai,Lab,Mau,Karnataka,Yes,903,140841,4.0
+H0139,Seshadri-Kulkarni,Lab,Nagpur,Tripura,No,1810,44156,3.7
+H0140,Goswami-Oza,Clinic,Durg,Assam,No,1516,41284,2.5
+H0141,"Loke, Dhar and Master",Clinic,Madhyamgram,West Bengal,No,1516,95515,4.6
+H0142,"Natarajan, Yogi and Sood",Hospital,Howrah,Haryana,Yes,1904,133198,3.4
+H0143,Tank-Sachdeva,Lab,Dehri,Tamil Nadu,No,870,18250,4.6
+H0144,"Palla, Palla and Sethi",Clinic,Jalna,Chhattisgarh,No,1456,136847,2.5
+H0145,Solanki Group,Lab,Rampur,Kerala,Yes,1767,89717,3.3
+H0146,Warrior LLC,Clinic,New Delhi,Karnataka,No,1104,68976,4.6
+H0147,Kibe PLC,Clinic,Ambattur,West Bengal,No,613,72351,3.9
+H0148,Chhabra-Ratti,Clinic,Thrissur,Telangana,No,1706,123618,4.0
+H0149,Ratta and Sons,Hospital,Uluberia,Mizoram,Yes,1307,18222,4.0
+H0150,Mittal PLC,Hospital,Bidhannagar,Arunachal Pradesh,Yes,855,56296,3.5
